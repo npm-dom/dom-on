@@ -11,7 +11,7 @@ function wrap (el) {
   return el
 }
 
-// alias `addEventListener` to `on`
+// alias `addEventListener()` to `on()`
 // str, fn -> null
 function on (event, cb) {
   this.addEventListener(event, cb)

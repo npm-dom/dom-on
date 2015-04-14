@@ -12,11 +12,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "browserify": "^9.0.8",
     "dom-stub": "^1.0.1",
     "is-dom": "^1.0.5",
-    "smokestack": "^3.2.2",
-    "tap-closer": "^1.0.0",
     "tape": "^4.0.0"
   },
   "files": [
