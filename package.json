@@ -14,10 +14,11 @@
     "on"
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "is-dom": "^1.0.5"
+  },
   "devDependencies": {
     "dom-stub": "^1.0.1",
-    "is-dom": "^1.0.5",
     "tape": "^4.0.0"
   },
   "files": [
