@@ -5,7 +5,7 @@
 [![Downloads][downloads-image]][downloads-url]
 [![js-standard-style][standard-image]][standard-url]
 
-Alias DOM node's `.addEventListener()` to `.on()`.
+Alias a DOM node's `.addEventListener()` to `.on()`.
 
 ## Installation
 ```bash
