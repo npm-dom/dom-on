@@ -1,0 +1,27 @@
+{
+  "name": "dom-on",
+  "version": "1.0.0",
+  "description": "dom-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && NODE_ENV=test node test",
+    "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
+  },
+  "repository": "yoshuawuyts/dom-on",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "dom-stub": "^1.0.1",
+    "is-dom": "^1.0.5",
+    "smokestack": "^3.2.2",
+    "tap-closer": "^1.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
