@@ -19,6 +19,8 @@
   },
   "devDependencies": {
     "dom-stub": "^1.0.1",
+    "istanbul": "^0.3.13",
+    "standard": "^3.6.1",
     "tape": "^4.0.0"
   },
   "files": [
