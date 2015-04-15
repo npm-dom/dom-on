@@ -27,10 +27,10 @@ button.on('click', () => console.log('oOOoooOOoooO!'))
 
 [npm-image]: https://img.shields.io/npm/v/dom-on.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/dom-on
-[travis-image]: https://img.shields.io/travis/yoshuawuyts/dom-on.svg?style=flat-square
-[travis-url]: https://travis-ci.org/yoshuawuyts/dom-on
-[coveralls-image]: https://img.shields.io/coveralls/yoshuawuyts/dom-on.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/yoshuawuyts/dom-on?branch=master
+[travis-image]: https://img.shields.io/travis/npm-dom/dom-on.svg?style=flat-square
+[travis-url]: https://travis-ci.org/npm-dom/dom-on
+[coveralls-image]: https://img.shields.io/coveralls/npm-dom/dom-on.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/npm-dom/dom-on?branch=master
 [downloads-image]: http://img.shields.io/npm/dm/dom-on.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/dom-on
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square

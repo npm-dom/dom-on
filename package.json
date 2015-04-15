@@ -7,7 +7,7 @@
     "test": "standard && NODE_ENV=test node test",
     "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
   },
-  "repository": "yoshuawuyts/dom-on",
+  "repository": "npm-dom/dom-on",
   "keywords": [
     "dom",
     "event",
