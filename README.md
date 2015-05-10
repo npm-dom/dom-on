@@ -22,6 +22,9 @@ on(button)
 button.on('click', () => console.log('oOOoooOOoooO!'))
 ```
 
+## See Also
+- [dom-wrap](https://github.com/juliangruber/dom-wrap) - Make dom elements easier to work with
+
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
 
